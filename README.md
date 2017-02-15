@@ -1,0 +1,1 @@
+this programs find palindrom
